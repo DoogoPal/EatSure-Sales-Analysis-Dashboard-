@@ -1,153 +1,149 @@
-# EatSure-Sales-Analysis-Dashboard-
+# EatSure Sales Analysis Dashboard
+
+## Project Overview
+
 This project presents a comprehensive Sales Analysis Dashboard for EatSure using Power BI. The dashboard provides insights into sales performance, customer ratings, order trends, food type segmentation (Veg vs Non-Veg), and state-wise performance.
+
 The objective of this project is to analyze business performance, identify trends, and provide actionable insights for data-driven decision-making.
 
-Tools & Technologies Used
+---
 
-1. Microsoft Excel
-2. DAX (Data Analysis Expressions)
-3. Data Cleaning & Transformation
+## Tools & Technologies Used
 
-Key Metrics (KPIs)
+- Microsoft Excel  
+- Power BI  
+- DAX (Data Analysis Expressions)  
+- Data Cleaning & Transformation  
 
-1. Total Sales: ₹53.01M
-2. Average Rating: 4.34
-3. Total Orders: 197.43K
-4. Average Order Value: ₹268.51
-5. Rating Count: 5.59M
+---
 
-Dashboard Features
+## Key Metrics (KPIs)
 
-1. Sales Performance Overview
+- Total Sales: ₹53.01M  
+- Average Rating: 4.34  
+- Total Orders: 197.43K  
+- Average Order Value: ₹268.51  
+- Rating Count: 5.59M  
 
-Total Sales KPI
+---
 
-Average Rating
+## Dashboard Features
 
-Total Orders
+### 1. Sales Performance Overview
 
-Average Order Value
+- Total Sales KPI  
+- Average Rating  
+- Total Orders  
+- Average Order Value  
 
-2. Food Type Analysis
+### 2. Food Type Analysis
 
 Donut chart comparing:
 
-Veg Sales
+- Veg Sales  
+- Non-Veg Sales  
 
-Non-Veg Sales
+### 3. State-wise Sales Analysis
 
-3. State-wise Sales Analysis
+- Map visualization showing total sales by state  
+- Highlights top-performing states  
 
-Map visualization showing total sales by state
+### 4. Trend Analysis
 
-Highlights top-performing states
+- Monthly Trend  
+- Daily Trend  
+- Weekly Trend  
 
-4. Trend Analysis
+### 5. City-Level Performance
 
-Monthly Trend
+- Top 5 Cities by Sales  
 
-Daily Trend
+### 6. Interactive Filters
 
-Weekly Trend
+- Month filter  
+- State filter  
+- Restaurant filter  
 
-5. City-Level Performance
+---
 
-Top 5 Cities by Sales
+## Key Insights
 
-6. Interactive Filters
-
-Month filter
-
-State filter
-
-Restaurant filter
-
-Key Insights
-1. Non-Veg Dominates Sales
+### 1. Non-Veg Dominates Sales
 
 Non-Veg contributes approximately 63% of total sales, indicating higher customer preference compared to Veg items.
 
-2. Strong Customer Satisfaction
+### 2. Strong Customer Satisfaction
 
 Average rating of 4.34 indicates positive customer experience and service quality.
 
-3. Peak Sales Pattern
+### 3. Peak Sales Pattern
 
-Higher sales observed towards weekends (Saturday & Sunday).
+- Higher sales observed towards weekends (Saturday and Sunday).  
+- Monthly trend shows growth with slight fluctuations.  
 
-Monthly trend shows growth with slight fluctuations.
-
-4. State-Level Contribution
+### 4. State-Level Contribution
 
 Some states significantly outperform others, suggesting:
 
-Strong brand presence
+- Strong brand presence  
+- Better marketing penetration  
+- Higher customer demand  
 
-Better marketing penetration
-
-Higher customer demand
-
-5. High Order Volume
+### 5. High Order Volume
 
 197K+ total orders indicate strong customer engagement and operational scale.
 
-Business Suggestions
-1. Focus on Non-Veg Category
+---
+
+## Business Suggestions
+
+### 1. Focus on Non-Veg Category
 
 Since Non-Veg drives majority revenue:
 
-Introduce combo offers
+- Introduce combo offers  
+- Expand premium Non-Veg menu items  
 
-Expand premium Non-Veg menu items
+### 2. Boost Veg Sales
 
-2. Boost Veg Sales
+- Launch promotional campaigns  
+- Introduce innovative Veg menu items  
+- Bundle Veg meals at discounted pricing  
 
-Launch promotional campaigns
+### 3. Weekend Marketing Strategy
 
-Introduce innovative Veg menu items
+- Offer weekend discounts  
+- Introduce loyalty rewards for repeat customers  
 
-Bundle Veg meals at discounted pricing
+### 4. Improve Low-Performing States
 
-3. Weekend Marketing Strategy
+- Localized advertising  
+- Special regional menu customization  
+- Targeted offers  
 
-Offer weekend discounts
+### 5. Increase Average Order Value
 
-Introduce loyalty rewards for repeat customers
+- Upselling and cross-selling  
+- Free delivery above a threshold  
+- Add-ons and meal upgrades  
 
-4. Improve Low-Performing States
+---
 
-Localized advertising
+## What I Learned
 
-Special regional menu customization
+- Built a complete end-to-end dashboard from raw data to insights  
+- Applied data cleaning techniques in Excel  
+- Created calculated measures using DAX  
+- Designed professional and interactive dashboard layout  
+- Improved understanding of:
+  - KPI selection  
+  - Data storytelling  
+  - Business insight generation  
+  - Visualization best practices
 
-Targeted offers
+## Author
 
-5. Increase Average Order Value
-
-Upselling & cross-selling
-
-Free delivery above a threshold
-
-Add-ons and meal upgrades
-
-# What I Learned
-
-1. Built a complete end-to-end dashboard from raw data to insights.
-2. Applied data cleaning techniques in Excel.
-3. Created calculated measures using DAX.
-4. Designed professional and interactive dashboard layout.
-5. Improved understanding of:
-
-  KPI selection
-
-  Data storytelling
-
-  Business insight generation
-
-  Visualization best practices
-
-Neha Pal
-Data Analyst | Power BI | Excel | SQL | Python
-📧 neha.pal.3355@gmail.com
-
+Neha Pal  
+Data Analyst | Power BI | Excel | SQL | Python  
+neha.pal.3355@gmail.com
 Mumbai, India
